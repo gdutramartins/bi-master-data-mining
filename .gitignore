@@ -1,0 +1,11 @@
+~$*
+Untitled*
+*.hdf5
+*-checkpoint.ipynb
+*.zip
+*.gz
+*.tar
+*.tsv
+*.spacy
+*.json
+base/
