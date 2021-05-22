@@ -24,7 +24,7 @@ Os tratamentos realizados nos dos dados, bem como a análise dos hiperparametros
 
 
 
-**Links Utilizados
+**Links Utilizados**
 
 - [5 Machine Learning Techniques for Sales Forecasting](https://link.medium.com/yWRbdz2OKfb)
 
